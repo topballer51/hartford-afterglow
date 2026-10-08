@@ -6,7 +6,7 @@ Recovered browser v0.2 prototype, preserved from ChatGPT Library.
 
 Published game: https://topballer51.github.io/hartford-afterglow/
 
-Use W/A/S/D to move. Drag the left on-screen stick to move and the right stick to look. This is an early prototype: the gold beacon mission and USE button do not yet implement completion or interaction.
+Use W/A/S/D to move. Drag the left on-screen stick to move and the right stick to look. Reach the gold beacon to trigger a gold celebration and victory chime. Choose Walk again to replay. The USE button is reserved for future interactions.
 
 ## Local workflow
 
